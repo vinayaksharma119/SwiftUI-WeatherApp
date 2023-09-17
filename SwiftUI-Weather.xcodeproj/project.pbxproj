@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F63CAA622AB749C700044815 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F63CAA612AB749C700044815 /* .gitignore */; };
 		F669AFC52AB4CB1C0085DA66 /* SwiftUI_WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F669AFC42AB4CB1C0085DA66 /* SwiftUI_WeatherApp.swift */; };
 		F669AFC72AB4CB1C0085DA66 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F669AFC62AB4CB1C0085DA66 /* ContentView.swift */; };
 		F669AFC92AB4CB1C0085DA66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F669AFC82AB4CB1C0085DA66 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F63CAA612AB749C700044815 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		F669AFC12AB4CB1C0085DA66 /* SwiftUI-Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Weather.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F669AFC42AB4CB1C0085DA66 /* SwiftUI_WeatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_WeatherApp.swift; sourceTree = "<group>"; };
 		F669AFC62AB4CB1C0085DA66 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				F669AFC42AB4CB1C0085DA66 /* SwiftUI_WeatherApp.swift */,
 				F669AFC62AB4CB1C0085DA66 /* ContentView.swift */,
+				F63CAA612AB749C700044815 /* .gitignore */,
 				F6AF8E9D2AB5F5A900228323 /* DataModel.swift */,
 				F669AFC82AB4CB1C0085DA66 /* Assets.xcassets */,
 				F669AFCA2AB4CB1C0085DA66 /* Preview Content */,
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F669AFCC2AB4CB1C0085DA66 /* Preview Assets.xcassets in Resources */,
+				F63CAA622AB749C700044815 /* .gitignore in Resources */,
 				F669AFC92AB4CB1C0085DA66 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
